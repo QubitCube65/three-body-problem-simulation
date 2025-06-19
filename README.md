@@ -31,4 +31,4 @@ The simulation window will display the orbits and interactions of the bodies.
 
 ---
 
-Note: This projects is just a simple model, there is no general closed-form solution to the three-body problem
+Note: This project is just a simple model for visualisation, there is no general closed-form solution to the three-body problem
