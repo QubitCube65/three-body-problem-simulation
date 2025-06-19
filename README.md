@@ -14,9 +14,6 @@ The simulation window will display the orbits and interactions of the bodies.
 
 ## Project Structure
 
-- `main.py` — Entry point, loads initial conditions and starts the simulation.
-- `Body` class — Represents a celestial body and its physical properties.
-- `Simulation` class — Handles the physics calculations and time stepping.
 - `input.txt` — Set initial mass, position, velocity, and acceleration for each body:
   
   ```
